@@ -1,0 +1,24 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>jp.atsushi.hello_world</Name>
+  <DisplayName>The root component</DisplayName>
+  <DisplayName xml:lang="ja">ルートコンポーネント</DisplayName>
+  <Description>Install this example.</Description>
+  <Description xml:lang="ja">インストールのサンプルです。</Description>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2022-11-09</ReleaseDate>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="76854328" CompressedSize="38542595"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,scripts.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="Hello World Public License Agreement" file="license.txt"/>
+  </Licenses>
+  <SHA1>645806d9e78e22555ac75a84f1a0724e9e9708d8</SHA1>
+ </PackageUpdate>
+ <SHA1>bdba483bd9605c35d00f4a60623f1e2f127697a7</SHA1>
+ <MetadataName>2022-11-21-1500_meta.7z</MetadataName>
+</Updates>
